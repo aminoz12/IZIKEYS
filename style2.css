@@ -1,0 +1,24 @@
+*{ 
+
+ margin: 0;
+ padding: 0;
+ 
+}
+  @import url('https://fonts.googleapis.com/css2?family=Changa:wght@500&display=swap');
+.header 
+ { 
+ 
+ height: 100vh; 
+    
+ }            
+ 
+ .navbar-style  { 
+ 
+  box-shadow: 0 5px 10px #efefef; 
+  
+  }
+  #paypal-button-container {   
+    
+ text-align: center;   
+ margin-top: 250px;   
+ }
