@@ -1368,7 +1368,10 @@ a:hover {
     background: url("office16.png") no-repeat center;
     background-size: cover;
 }
-
+.row {
+    margin-right: -15px;
+    margin-left: 15px;
+}
 
 .section-products #product-6 .part-1::before {
     background: url("office19.png") no-repeat center;
